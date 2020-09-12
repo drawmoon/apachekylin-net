@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheKylin.Client", "ApacheKylin.Client\ApacheKylin.Client.csproj", "{2BDB8E69-F3ED-483E-98B4-DAE53A9FA7AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApacheKylin.Client.Tests", "ApacheKylin.Client.Tests\ApacheKylin.Client.Tests.csproj", "{B416AD11-8032-4818-9E68-5A26FAFBEB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDB8E69-F3ED-483E-98B4-DAE53A9FA7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDB8E69-F3ED-483E-98B4-DAE53A9FA7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDB8E69-F3ED-483E-98B4-DAE53A9FA7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDB8E69-F3ED-483E-98B4-DAE53A9FA7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B416AD11-8032-4818-9E68-5A26FAFBEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B416AD11-8032-4818-9E68-5A26FAFBEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B416AD11-8032-4818-9E68-5A26FAFBEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B416AD11-8032-4818-9E68-5A26FAFBEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
